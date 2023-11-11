@@ -1,4 +1,5 @@
 DSSS Course Homework 2
+
 This is the second homework assignment for the Data Science and Software Systems (DSSS) course. The main objective of this homework is to deepen the understanding of the Git version control system and to master its basic operations through practical exercises.
 
 Project Description
