@@ -1,5 +1,5 @@
 import unittest
-from math_quiz import function_A, function_B, function_C
+from math_quiz import function_A, function_B, calculate
 
 
 class TestMathGame(unittest.TestCase):
