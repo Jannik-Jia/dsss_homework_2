@@ -70,7 +70,6 @@ def math_quiz():
         # Generate random numbers
         operand1 = generate_random_number(1, 10)
         operand2 = generate_random_number(1, 5.5)
-
         operator = choose_random_operator()
 
         # Calculate the question and answer
